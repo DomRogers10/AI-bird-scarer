@@ -1,4 +1,4 @@
-# AI-bird-scarer
+# AI Bird Scarer
 
 An AI project aimed to detect and scare birds automatically using a raspberry pi and the CV2 camera module.
 Plenty of birdscarers already exist, but these are almost always manually operated, or occur at regular intervals. Either way, they are time consuming and wasteful, so why not automate it using AI?
