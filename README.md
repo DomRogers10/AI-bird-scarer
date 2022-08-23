@@ -7,5 +7,7 @@ The project uses a convolutional neural network to identify birds in real time, 
 I used Tensorflow to train the model on Google Colab, before loading and running the model on the Pi. The training data consisted of these [60,000 images from Kaggle](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)
 
 The "scaring" features consist of:
+
 *An alarm system triggered remotely on a nearby bluetooth speaker (for models RPi 3 onwards)*
+
 *A motorized, rotating arm*
