@@ -55,7 +55,7 @@ while True:
         if prediction < 0.7:
             count += 1
             if count >= 3:          
-                os.system("paplay beep-02.wav")
+                os.system("paplay alarm.wav")
                 plt.imsave(f"image{birds}.jpg", original)
                 birds += 1
                 
