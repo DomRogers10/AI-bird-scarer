@@ -11,3 +11,5 @@ The "scaring" features consist of:
 *An alarm system triggered remotely on a nearby bluetooth speaker (for models RPi 3 onwards)*
 
 *A motorized, rotating arm*
+
+NOTE: The speaker is already wirelessly connected using [these instructions](https://www.funincomplete.com/how-to-use-bluetooth-speaker-raspberry-pi/)
