@@ -6,6 +6,8 @@ Plenty of birdscarers already exist, but these are almost always manually operat
 The project uses a convolutional neural network to identify birds in real time, initiating a number of outputs from the pi to scare it away.
 I used Tensorflow to train the model on Google Colab, before loading and running the model on the Pi. The training data consisted of these [60,000 images from Kaggle](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)
 
+A pretrained version of this model for testing can be found [here](https://drive.google.com/file/d/1brWolaGeo_-O5GM-7sYF3TAgAbn62-tw/view?usp=sharing)
+
 The "scaring" features consist of:
 
 *An alarm system triggered remotely on a nearby bluetooth speaker (for models RPi 3 onwards)*
